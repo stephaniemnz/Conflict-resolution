@@ -1,3 +1,2 @@
 # Conflict-resolution
-
-## This repo was created on github
+-This repo was created on github
